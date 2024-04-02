@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "529FDFC8-D410-482C-8D2D-7BE83D38E67C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80CC5066-3F31-4CB0-B85D-710BF46D14F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesAppTests/MoviesAppTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "testOnAppear_shouldFetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "80CC5066-3F31-4CB0-B85D-710BF46D14F9 - 5264918ede128369"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviesAppTests.MoviesAppTests.testOnAppear_shouldFetchData() -&gt; ()"
+                  moduleName = "MoviesAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesAppTests/MoviesAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1588">
+               </Location>
+               <Location
+                  uuid = "80CC5066-3F31-4CB0-B85D-710BF46D14F9 - 86b2f97fee9b45c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for MoviesAppTests.MoviesAppTests.testOnAppear_shouldFetchData() async -&gt; ()"
+                  moduleName = "MoviesAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesAppTests/MoviesAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1640">
+               </Location>
+               <Location
+                  uuid = "80CC5066-3F31-4CB0-B85D-710BF46D14F9 - 10070bac19250eda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for MoviesAppTests.MoviesAppTests.testOnAppear_shouldFetchData() async -&gt; ()"
+                  moduleName = "MoviesAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesAppTests/MoviesAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "80CC5066-3F31-4CB0-B85D-710BF46D14F9 - ea1ea335f4f009cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MoviesAppTests.MoviesAppTests.testOnAppear_shouldFetchData() async -&gt; ()"
+                  moduleName = "MoviesAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesAppTests/MoviesAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "80CC5066-3F31-4CB0-B85D-710BF46D14F9 - 86b2f97fee9b45c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for MoviesAppTests.MoviesAppTests.testOnAppear_shouldFetchData() async -&gt; ()"
+                  moduleName = "MoviesAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesAppTests/MoviesAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1636">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA9ADB61-4CA9-45B6-869F-9CD6E5F6C02E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesAppTests/MoviesAppTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "testOnAppear_shouldFetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AA9ADB61-4CA9-45B6-869F-9CD6E5F6C02E - 5264918ede12832b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviesAppTests.MoviesAppTests.testOnAppear_shouldFetchData() -&gt; ()"
+                  moduleName = "MoviesAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesAppTests/MoviesAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1780">
+               </Location>
+               <Location
+                  uuid = "AA9ADB61-4CA9-45B6-869F-9CD6E5F6C02E - ea1ea335f4f009a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MoviesAppTests.MoviesAppTests.testOnAppear_shouldFetchData() async -&gt; ()"
+                  moduleName = "MoviesAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesAppTests/MoviesAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "AA9ADB61-4CA9-45B6-869F-9CD6E5F6C02E - 86b2f97fee9b458b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for MoviesAppTests.MoviesAppTests.testOnAppear_shouldFetchData() async -&gt; ()"
+                  moduleName = "MoviesAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesAppTests/MoviesAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1828">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0746D2B9-ADBE-46FF-97F7-674FE09F20E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesApp/Screens/MoviesList/MoviesListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "fillData(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D04FDADC-2AD2-4917-A23F-91D6D2E473D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesAppTests/MoviesAppTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "getMovies(page:searchCriteria:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D04FDADC-2AD2-4917-A23F-91D6D2E473D2 - a2d5733e5104beac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for MoviesAppTests.MockMoviesUseCase.getMovies(page: Swift.Int, searchCriteria: Swift.String) async throws -&gt; MoviesDomain.MoviesEntity"
+                  moduleName = "MoviesAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesAppTests/MoviesAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "D04FDADC-2AD2-4917-A23F-91D6D2E473D2 - a2d5733e5104beac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for MoviesAppTests.MockMoviesUseCase.getMovies(page: Swift.Int, searchCriteria: Swift.String) async throws -&gt; MoviesDomain.MoviesEntity"
+                  moduleName = "MoviesAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesAppTests/MoviesAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "D04FDADC-2AD2-4917-A23F-91D6D2E473D2 - a2d5733e5104beac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for MoviesAppTests.MockMoviesUseCase.getMovies(page: Swift.Int, searchCriteria: Swift.String) async throws -&gt; MoviesDomain.MoviesEntity"
+                  moduleName = "MoviesAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesAppTests/MoviesAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB55A808-07B3-493A-A656-F2AF7C48FA21"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesAppTests/MoviesAppTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "getMovies(page:searchCriteria:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB55A808-07B3-493A-A656-F2AF7C48FA21 - a2d5733e5104be8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for MoviesAppTests.MockMoviesUseCase.getMovies(page: Swift.Int, searchCriteria: Swift.String) async throws -&gt; MoviesDomain.MoviesEntity"
+                  moduleName = "MoviesAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesAppTests/MoviesAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "EB55A808-07B3-493A-A656-F2AF7C48FA21 - df00af78c284c414"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MoviesDomain.MovieEntity) -&gt; Swift.Bool in MoviesAppTests.MockMoviesUseCase.getMovies(page: Swift.Int, searchCriteria: Swift.String) async throws -&gt; MoviesDomain.MoviesEntity"
+                  moduleName = "MoviesAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesAppTests/MoviesAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "EB55A808-07B3-493A-A656-F2AF7C48FA21 - a2d5733e5104be8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for MoviesAppTests.MockMoviesUseCase.getMovies(page: Swift.Int, searchCriteria: Swift.String) async throws -&gt; MoviesDomain.MoviesEntity"
+                  moduleName = "MoviesAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesAppTests/MoviesAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "EB55A808-07B3-493A-A656-F2AF7C48FA21 - df00af78c284c414"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MoviesDomain.MovieEntity) -&gt; Swift.Bool in MoviesAppTests.MockMoviesUseCase.getMovies(page: Swift.Int, searchCriteria: Swift.String) async throws -&gt; MoviesDomain.MoviesEntity"
+                  moduleName = "MoviesAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesAppTests/MoviesAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "EB55A808-07B3-493A-A656-F2AF7C48FA21 - a2d5733e5104be8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for MoviesAppTests.MockMoviesUseCase.getMovies(page: Swift.Int, searchCriteria: Swift.String) async throws -&gt; MoviesDomain.MoviesEntity"
+                  moduleName = "MoviesAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesAppTests/MoviesAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "188CE111-6608-4E11-B3A1-278D68CE6ECD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesApp/Screens/MoviesList/MoviesListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "dispatch(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "188CE111-6608-4E11-B3A1-278D68CE6ECD - 4694d89c59aab5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MoviesApp.MoviesListViewModel.dispatch(MoviesApp.MoviesListViewModel.Action) -&gt; ()"
+                  moduleName = "MoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesApp/Screens/MoviesList/MoviesListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "188CE111-6608-4E11-B3A1-278D68CE6ECD - 327af899b1aca567"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in MoviesApp.MoviesListViewModel.dispatch(MoviesApp.MoviesListViewModel.Action) -&gt; ()"
+                  moduleName = "MoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesApp/Screens/MoviesList/MoviesListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "188CE111-6608-4E11-B3A1-278D68CE6ECD - 9b44b63ff62e6762"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MoviesApp.MoviesListViewModel.dispatch(MoviesApp.MoviesListViewModel.Action) -&gt; ()"
+                  moduleName = "MoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesApp/Screens/MoviesList/MoviesListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3233F0B3-AC19-45D6-A03F-F6F42CE7D948"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesApp/Screens/MoviesList/MoviesListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "fetchMovies(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3233F0B3-AC19-45D6-A03F-F6F42CE7D948 - e3fdcb8e45bf269f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MoviesApp.MoviesListViewModel.fetchMovies(for: Swift.String) async -&gt; ()"
+                  moduleName = "MoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesApp/Screens/MoviesList/MoviesListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "3233F0B3-AC19-45D6-A03F-F6F42CE7D948 - 1033feeb4aa2c098"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for MoviesApp.MoviesListViewModel.fetchMovies(for: Swift.String) async -&gt; ()"
+                  moduleName = "MoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesApp/Screens/MoviesList/MoviesListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "3233F0B3-AC19-45D6-A03F-F6F42CE7D948 - 8e6995d47f966299"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for MoviesApp.MoviesListViewModel.fetchMovies(for: Swift.String) async -&gt; ()"
+                  moduleName = "MoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesApp/Screens/MoviesList/MoviesListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "3233F0B3-AC19-45D6-A03F-F6F42CE7D948 - 3c9f4931637a3c9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for MoviesApp.MoviesListViewModel.fetchMovies(for: Swift.String) async -&gt; ()"
+                  moduleName = "MoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesApp/Screens/MoviesList/MoviesListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EA232DA-1CC6-4986-BF60-E27C4452ADAF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesApp/Screens/MoviesList/MoviesListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "dispatch(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8FDAEEF7-67A3-4A2F-9604-0A5B73FD064E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesApp/Screens/MoviesList/MoviesListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "dispatch(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1BAF95E-D8BA-4B49-9A86-FB218A515A45"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesApp/Screens/MoviesList/MoviesListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "dispatch(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7918974-1BAB-4178-9512-348CA3371C52"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesApp/Screens/MoviesList/MoviesListScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A7918974-1BAB-4178-9512-348CA3371C52 - 8a1bfff8030f7392"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviesApp.MoviesListScreen.body.getter : some"
+                  moduleName = "MoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesApp/Screens/MoviesList/MoviesListScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "2260">
+               </Location>
+               <Location
+                  uuid = "A7918974-1BAB-4178-9512-348CA3371C52 - 8a1bfff8030f7392"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviesApp.MoviesListScreen.body.getter : some"
+                  moduleName = "MoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesApp/Screens/MoviesList/MoviesListScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "2060">
+               </Location>
+               <Location
+                  uuid = "A7918974-1BAB-4178-9512-348CA3371C52 - 59281e3f24166f49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable () async -&gt; () in MoviesApp.MoviesListScreen.body.getter : some"
+                  moduleName = "MoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesApp/Screens/MoviesList/MoviesListScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "A7918974-1BAB-4178-9512-348CA3371C52 - 69c175d84be879ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in MoviesApp.MoviesListScreen.body.getter : some"
+                  moduleName = "MoviesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleksasimic/Desktop/MoviesAppTest/MoviesApp/MoviesApp/Screens/MoviesList/MoviesListScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCB05834-DD62-4EBF-A5D5-FC4B1BB3E98E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesApp/Screens/MoviesList/MoviesListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "dispatch(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F78FE4EA-6C6C-4AB5-B41C-DD0D4D3EB08C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesApp/Screens/MoviesList/MoviesListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "bindSearchTextListener()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C327962E-92CB-4DE9-8966-E1A7DD720607"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviesApp/Screens/MoviesList/MoviesListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "dispatch(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
